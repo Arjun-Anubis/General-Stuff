@@ -11,3 +11,8 @@ usage:
   ./in | powershell | ./out
  Or
   python in.py | powershell | python out.py
+  
+  
+  Date - 16/6/21
+  
+  Will study gobuster.
